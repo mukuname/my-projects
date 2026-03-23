@@ -175,16 +175,3 @@ These additions demonstrate independent learning and exploration beyond course m
 ## Reflection
 
 This project strengthened my understanding of how low-level programming concepts—like memory management and file handling—can be combined to build practical applications. It also reinforced the importance of planning, problem-solving, and learning independently.
-
----
-
-## 👤 Author
-
-**Enock Mukuna**
-
----
-
-
-
-* Make this look even more **professional with badges and visuals**
-* Or turn this into a **full portfolio project recruiters love** (this one is actually strong already)
